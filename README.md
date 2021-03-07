@@ -31,4 +31,5 @@ For more information, please check Tuya Developer Website.
 │  │  oledfont.h            //OLED字体相关
 |  |-- mcusdk               //tuya MCU SDK
 ```
+Note: 项目已移除了真实产品的PRODUCT_KEY
 ![RT_Thread Log](rtt_log.png)
